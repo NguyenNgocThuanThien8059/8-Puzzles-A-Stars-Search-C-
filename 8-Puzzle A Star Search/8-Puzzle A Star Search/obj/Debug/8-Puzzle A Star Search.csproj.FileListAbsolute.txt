@@ -1,0 +1,7 @@
+C:\Users\Lenovo\source\repos\8-Puzzle A Star Search\8-Puzzle A Star Search\bin\Debug\8-Puzzle A Star Search.exe.config
+C:\Users\Lenovo\source\repos\8-Puzzle A Star Search\8-Puzzle A Star Search\bin\Debug\8-Puzzle A Star Search.exe
+C:\Users\Lenovo\source\repos\8-Puzzle A Star Search\8-Puzzle A Star Search\bin\Debug\8-Puzzle A Star Search.pdb
+C:\Users\Lenovo\source\repos\8-Puzzle A Star Search\8-Puzzle A Star Search\obj\Debug\8-Puzzle A Star Search.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\8-Puzzle A Star Search\8-Puzzle A Star Search\obj\Debug\8-Puzzle A Star Search.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\8-Puzzle A Star Search\8-Puzzle A Star Search\obj\Debug\8-Puzzle A Star Search.exe
+C:\Users\Lenovo\source\repos\8-Puzzle A Star Search\8-Puzzle A Star Search\obj\Debug\8-Puzzle A Star Search.pdb
